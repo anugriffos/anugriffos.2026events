@@ -487,7 +487,7 @@
       </div>
       <div class="card-body">
         <h2>Season Launch</h2>
-        <p>Let's put on something reasonably nice and set the tone for a great start to the 2026 season. Join us at Hellenic in the City for our official season launch.</p>
+        <p>Let's put on something (reasonably) nice and set the tone for a great start to the 2026 season. Join us at Hellenic in the City for our official season launch.</p>
       </div>
     </div>
 
