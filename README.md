@@ -1,5 +1,4 @@
-# anugriffos.2026events[griffins-landing-2.html](https://github.com/user-attachments/files/25463461/griffins-landing-2.html)
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <meta charset="UTF-8">
